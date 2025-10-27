@@ -51,6 +51,17 @@ mosquito-tracker/
 
 ---
 
+🎥 Demonstration
+
+The following video showcases the Mosquito Tracker system in action, detecting and following multiple mosquitoes in real time.
+
+
+https://github.com/user-attachments/assets/d466a364-84b1-4c8f-97f9-3338fadf766c
+
+
+
+---
+
 ## 🔧 Installation
 
 ```bash
