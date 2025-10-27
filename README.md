@@ -18,10 +18,15 @@ The system processes video frames, identifies mosquito movements, filters noise,
 ## 🧩 Project Structure
 
 mosquito-tracker/
+
 │
+
 ├── mosquito_detector.py     # Detection and motion analysis logic
+
 ├── mosquito_tracker.py      # Tracking system with ID persistence
+
 ├── visualization_utils.py   # Drawing boxes and tracking visualization
+
 └── demo_usage.ipynb         # Example notebook demonstrating full 
 
 ---
