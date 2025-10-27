@@ -51,7 +51,7 @@ mosquito-tracker/
 
 ---
 
-🎥 Demonstration
+## 🎥 Demonstration
 
 The following video showcases the Mosquito Tracker system in action, detecting and following multiple mosquitoes in real time.
 
